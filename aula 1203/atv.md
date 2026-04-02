@@ -1,4 +1,4 @@
-### 🚩Utilizei o repositório da atividade de versionamento para fazer o do vanilla.js também, (work smart, no hard)
+### 🚩Utilizei o repositório da atividade de versionamento para fazer o do vanilla.js também, (work smart, not hard)
 
 ## 🔗 Link
 
